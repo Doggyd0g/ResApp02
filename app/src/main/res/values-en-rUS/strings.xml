@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResApp02</string>
+    <string name="MarketVeg">Магазин овощей</string>
+    <string name="TODO">TODO</string>
+    <string name="BuyFeihoa">Купить Фейхоа</string>
+    <string name="BuyMandarin">Купить манарин</string>
+    <string name="TODO1">TODO</string>
+</resources>
